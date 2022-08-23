@@ -4,7 +4,7 @@ import GenderGuesser from '../../assets/images/chuck.png';
 import Horiseon from '../../assets/images/horiseon.png';
 import FirstPort from '../../assets/images/Port-project.png';
 import RunBuddy from '../../assets/images/run buddy.png';
-import BudgetTracker from '../../assets/images/taskinator.png';
+import BudgetTracker from '../../assets/images/budget-tracker.png';
 
 function Portfolio() {
     return (
