@@ -10,8 +10,7 @@ The challenge this week is to create a portfolio, using your new React skills to
 ![](/reactportfolio/src/assets/images/challenge-screenshot.png)
 
 ## Deployed URL
-
-
+https://danielornelas01.github.io/ReactPortfolio/
 ## Questions
 - Github: [DanielOrnelas01](https://github.com/DanielOrnelas01)
 - Email: danielornelas01@yahoo.com
