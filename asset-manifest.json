@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.577a9c3a.css",
-    "main.js": "/ReactPortfolio/static/js/main.fcd27af2.js",
+    "main.css": "/ReactPortfolio/static/css/main.1be4dd41.css",
+    "main.js": "/ReactPortfolio/static/js/main.1b9022e1.js",
     "static/js/787.e29dc422.chunk.js": "/ReactPortfolio/static/js/787.e29dc422.chunk.js",
     "static/media/horiseon.png": "/ReactPortfolio/static/media/horiseon.94f2d12873586cbfffac.png",
     "static/media/image01.png": "/ReactPortfolio/static/media/image01.5b205a453b81a30a10b4.png",
@@ -13,12 +13,12 @@
     "static/media/Daniel Ornelas resume.pdf": "/ReactPortfolio/static/media/Daniel Ornelas resume.4a52cf49f5c227b1927c.pdf",
     "static/media/budget-tracker.png": "/ReactPortfolio/static/media/budget-tracker.24dd46e07534477ae278.png",
     "index.html": "/ReactPortfolio/index.html",
-    "main.577a9c3a.css.map": "/ReactPortfolio/static/css/main.577a9c3a.css.map",
-    "main.fcd27af2.js.map": "/ReactPortfolio/static/js/main.fcd27af2.js.map",
+    "main.1be4dd41.css.map": "/ReactPortfolio/static/css/main.1be4dd41.css.map",
+    "main.1b9022e1.js.map": "/ReactPortfolio/static/js/main.1b9022e1.js.map",
     "787.e29dc422.chunk.js.map": "/ReactPortfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.577a9c3a.css",
-    "static/js/main.fcd27af2.js"
+    "static/css/main.1be4dd41.css",
+    "static/js/main.1b9022e1.js"
   ]
 }
