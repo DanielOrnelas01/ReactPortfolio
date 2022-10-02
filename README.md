@@ -7,7 +7,7 @@
 The challenge this week is to create a portfolio, using your new React skills to help set you apart from other developers whose portfolios don’t use the latest technologies.
 
 ## Screenshot
-![](/reactportfolio/src/assets/images/challenge-screenshot.png)
+![](/src/assets/images/challenge-screenshot.png)
 
 ## Deployed URL
 https://danielornelas01.github.io/ReactPortfolio/
