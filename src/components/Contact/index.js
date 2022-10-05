@@ -43,6 +43,9 @@ return (
             <h1 className="page-header">Let's connect</h1>
         </div>
         <div className="center">
+            <h3 >danielornelas01@yahoo.com</h3>
+        </div>
+        <div className="center">
         <img
 					src={Contact}
 					alt="contact-photo"
