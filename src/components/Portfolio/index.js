@@ -46,7 +46,7 @@ function Portfolio() {
                     <div class="card-body">
                         <p className="center">(Gender Guesser) guesses your gender based on your name</p>
                         <p className="center">HTML/CSS/JAVASCRIPT</p>
-                        <a href="https://github.com/DanielOrnelas01/project-1" target="_blank" rel="noopener noreferrer">
+                        <a href="https://danielornelas01.github.io/Gender-Guesser/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
                         <a href="https://danielornelas01.github.io/project-1/" target="_blank" rel="noopener noreferrer">
